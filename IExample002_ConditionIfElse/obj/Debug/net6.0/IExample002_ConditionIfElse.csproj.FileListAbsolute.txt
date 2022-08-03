@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.AssemblyInfo.cs
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/bin/Debug/net6.0/IExample002_ConditionIfElse
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/bin/Debug/net6.0/IExample002_ConditionIfElse.deps.json
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/bin/Debug/net6.0/IExample002_ConditionIfElse.runtimeconfig.json
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/bin/Debug/net6.0/IExample002_ConditionIfElse.dll
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/bin/Debug/net6.0/IExample002_ConditionIfElse.pdb
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.dll
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/refint/IExample002_ConditionIfElse.dll
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.pdb
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/IExample002_ConditionIfElse.genruntimeconfig.cache
+/Users/macbookpro/Desktop/C# Lessons/IExample002_ConditionIfElse/obj/Debug/net6.0/ref/IExample002_ConditionIfElse.dll
