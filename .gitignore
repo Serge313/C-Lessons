@@ -2,3 +2,5 @@
 *.csproj
 bin/
 obj/
+C# Lessons.csproj
+Program.cs
